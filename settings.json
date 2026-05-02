@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Botpredeiro24h",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Bot24hTHgay",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Povo_do_balacubaco.aternos.me",
+    "port": 54238,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
